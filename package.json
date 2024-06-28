@@ -1,7 +1,7 @@
 {
   "author": "Grafana Labs",
   "license": "AGPL-3.0-only",
-  "private": true,
+  "private": false,
   "name": "grafana",
   "version": "11.2.0-pre",
   "repository": "github:grafana/grafana",
